@@ -1,0 +1,53 @@
+
+
+h1{
+    text-align: center;
+    color: green;
+}
+
+
+.box{
+    width: 200px;
+    height: 500px;
+    background: black;
+    margin: auto;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.circle{
+    width: 130px;
+    height: 130px;
+    background: gray;
+    border-radius: 50%;
+    margin: 18px auto;
+    
+}
+
+
+
+
+.base{
+    width: 90px;
+    height: 150px;
+    background-color: gray;
+    margin: auto;
+}
+
+
+button{
+    position: absolute;
+    top: 300px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+    color: white;
+    background-color:rgb(146, 129, 129);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
+}
